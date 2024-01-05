@@ -78,5 +78,6 @@
         "core": "cpp",
         "numericaldiff": "cpp",
         "dense": "cpp"
-    }
+    },
+    "ros.distro": "noetic"
 }
